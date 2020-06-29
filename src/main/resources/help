@@ -1,0 +1,11 @@
+Component:
+    RestController
+    Service
+    Repository
+    Configuration
+    Entity
+address:
+    /register
+    /get_info
+test:
+    h2
